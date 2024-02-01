@@ -7,3 +7,5 @@ Blueprint of the portfolio::
 2)
 
 ![image](https://github.com/Thorus-Slughorm/Portfolio/assets/92204672/eb22e50c-1796-41e5-a3ef-dff82c11c2ff)
+3) 
+![image](https://github.com/Thorus-Slughorm/Portfolio/assets/92204672/243aef6b-806a-4855-adb5-8c5c087a424b)
